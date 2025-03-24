@@ -97,7 +97,7 @@ export default function App() {
         >
           <div className="flex items-center justify-center gap-2">
             <Snowflake className="w-8 h-8 text-blue-200" />
-            <h1 className="text-4xl md:text-5xl font-bold text-white">Festa Frozen</h1>
+            <h1 className="text-4xl md:text-5xl font-bold text-white">Liz 3 anos</h1>
             <Snowflake className="w-8 h-8 text-blue-200" />
           </div>
           <p className="text-lg md:text-xl text-blue-100">Você está convidado para uma aventura mágica!</p>
