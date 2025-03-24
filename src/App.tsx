@@ -80,7 +80,7 @@ export default function App() {
         className="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat"
         style={{
           backgroundImage: `url('/frozen-background.jpg')`,
-          backgroundPosition: 'center 20%'
+          backgroundPosition: 'center 100%'
         }}
       >
         {/* Overlay for better text readability */}
