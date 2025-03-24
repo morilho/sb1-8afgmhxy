@@ -110,11 +110,11 @@ export default function App() {
             <div className="space-y-4">
               <div className="flex items-center gap-2 text-blue-800">
                 <Calendar className="w-5 h-5 flex-shrink-0" />
-                <p>20 de Abril de 2025 • 14:00</p>
+                <p>22 de Maio de 2025 • 19:00</p>
               </div>
               <div className="flex items-center gap-2 text-blue-800">
                 <MapPin className="w-5 h-5 flex-shrink-0" />
-                <p>Buffet Mundo Mágico, Rua das Flores, 123</p>
+                <p>Buffet Macafolia Sumaré, Av. 7 de setembro, 1824</p>
               </div>
             </div>
 
