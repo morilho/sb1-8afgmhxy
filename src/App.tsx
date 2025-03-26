@@ -141,9 +141,8 @@ export default function App() {
                     } focus:outline-none focus:ring-2 focus:ring-blue-500`}
                   >
                     <option value="">Sua idade</option>
-                    <option value="0 a 5 anos">0 a 5 anos</option>
-                    <option value="5 a 10 anos">5 a 10 anos</option>
-                    <option value="> 10 anos">maior que 10 anos</option>
+                    <option value="12 a 18">"Festeiro Disfarçado" – 12 a 18</option>
+                    <option value="Mais de 18">"Adulto de Olho no Bolo" – Mais de 18</option>
                   </select>
 
                   {acompanhantes.length > 0 && (
@@ -174,9 +173,10 @@ export default function App() {
                             } focus:outline-none focus:ring-2 focus:ring-blue-500`}
                           >
                             <option value="">Idade</option>
-                            <option value="0 a 5 anos">0 a 5 anos</option>
-                            <option value="5 a 10 anos">5 a 10 anos</option>
-                            <option value="> 10 anos">maior que 10 anos</option>
+                            <option value="0 a 5">"Mini Convidado" – 0 a 5</option>
+                            <option value="5 a 12">"Caçador de Doces" – 5 a 12</option>
+                            <option value="12 a 18">"Festeiro Disfarçado" – 12 a 18</option>
+                            <option value="Mais de 18">"Adulto de Olho no Bolo" – Mais de 18</option>
                           </select>
                         </motion.div>
                       ))}
