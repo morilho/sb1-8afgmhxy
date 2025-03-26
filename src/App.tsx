@@ -84,7 +84,7 @@ export default function App() {
         }}
       >
         {/* Overlay for better text readability */}
-        <div className="absolute inset-0 bg-blue-900/40 backdrop-blur-[2px]" />
+        <div className="absolute inset-0 bg-blue-900/40" />
       </div>
 
       {/* Content container */}
